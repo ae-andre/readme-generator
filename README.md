@@ -12,7 +12,7 @@ https://ae-andre.github.io/readme-generator/
 
 ## Mock up
 
-![The readme generator presents questions to the user that they can answer using a command-line.](./assets/media/readme%20preview%20optimized.gif)
+![The readme generator presents questions to the user that they can answer using a command-line.](https://github.com/ae-andre/readme-generator/blob/main/assets/media/readme-preview-optimized.gif)
 
 ## License
 
