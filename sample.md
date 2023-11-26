@@ -1,36 +1,35 @@
-# lkjasdflkjsdfj
-![badge](https://img.shields.io/badge/license-MPL-green)
-https://opensource.org/license/mpl-2-0/
+# README Generator
+![badge](https://img.shields.io/badge/license-Apache-green)
+
+https://opensource.org/license/apache-2-0/
 
 ## Description
-sdfa
+A generator to make premium-looking readme files.
 
 ## Table of Contents
 1. [Installation](#installation)
-2. [Usage Information](#usage-information)
-3. [Contribution Guidelines](#contribution-guidelines)
-4. [Test Instructions](#test-instructions)
+2. [Usage](#usage)
+3. [Contributing](#contributing)
+4. [Tests](#tests)
 5. [License](#license)
-6. [Git Username](#git-username)
-7. [Email Address](#email-address)
+6. [Questions](#questions)
 
 ## Installation
-jklsfadjklsafd
+Simply download the files and get started!
     
-## Usage Information
-asfdj
+## Usage
+Input your details and follow the prompts
     
-## Contribution Guidelines
-faj
+## Contributing
+n/a
     
-## Test Instructions
-af
+## Tests
+Run the files to perform a test.
 
 ## License
-MPL
+Apache
 
-## Git Username
-j
+## Questions
+[github-user-3000](https://github.com/github-user-3000/)
 
-## Email Address
-j
+If you have any additional questions, please feel free to email me at email@domain.com
